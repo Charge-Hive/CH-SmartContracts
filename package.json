@@ -1,0 +1,21 @@
+{
+  "name": "chargehive-hscs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ChargeHive",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@ethersproject/hdnode": "^5.7.0",
+    "@grpc/grpc-js": "^1.12.6",
+    "@hashgraph/nft-utilities": "^3.0.2",
+    "@hashgraph/sdk": "^2.59.0",
+    "date-fns": "^4.1.0",
+    "dotenv": "^16.4.7",
+    "solc": "^0.8.28",
+    "zod-error": "^1.5.0"
+  }
+}
